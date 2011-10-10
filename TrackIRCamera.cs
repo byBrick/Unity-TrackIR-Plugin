@@ -1,10 +1,3 @@
-// Sample code for using TrackIR in Unity3D, tested with 2.6 but should work in 3.0 also. Add plugin to project and use as shown below.
-// Distribute and use as you wish but please give credit. If you use it and meet me in person one day, feel free to buy me a beer.
-//
-// Have fun!
-// Tobias Boogh
-// tobias.boogh@bybrick.se
-
 using UnityEngine;
 using System;
 using System.Collections.Generic;
